@@ -1,7 +1,12 @@
 self.__BUILD_MANIFEST = {
   "__rewrites": {
     "afterFiles": [],
-    "beforeFiles": [],
+    "beforeFiles": [
+      {
+        "source": "/kartland-public//_next/:path+",
+        "destination": "/kartland-public/_next/:path+"
+      }
+    ],
     "fallback": []
   },
   "sortedPages": [
