@@ -1,4 +1,4 @@
 1:"$Sreact.fragment"
-2:I[39756,["/ludakzdd2.github.io/kartland-public/_next/static/chunks/5e2b55944052221c.js","/ludakzdd2.github.io/kartland-public/_next/static/chunks/bad7e2f3eecd3e76.js","/ludakzdd2.github.io/kartland-public/_next/static/chunks/7340adf74ff47ec0.js"],"default"]
-3:I[37457,["/ludakzdd2.github.io/kartland-public/_next/static/chunks/5e2b55944052221c.js","/ludakzdd2.github.io/kartland-public/_next/static/chunks/bad7e2f3eecd3e76.js","/ludakzdd2.github.io/kartland-public/_next/static/chunks/7340adf74ff47ec0.js"],"default"]
-0:{"buildId":"4hBmnupTpynrtZWRCpeUm","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
+2:I[39756,["/kartland-public/_next/static/chunks/5e2b55944052221c.js","/kartland-public/_next/static/chunks/bad7e2f3eecd3e76.js","/kartland-public/_next/static/chunks/7340adf74ff47ec0.js"],"default"]
+3:I[37457,["/kartland-public/_next/static/chunks/5e2b55944052221c.js","/kartland-public/_next/static/chunks/bad7e2f3eecd3e76.js","/kartland-public/_next/static/chunks/7340adf74ff47ec0.js"],"default"]
+0:{"buildId":"xlR4nQqU2DRth4lCo5AHu","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}

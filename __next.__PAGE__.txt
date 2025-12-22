@@ -1,9 +1,9 @@
 1:"$Sreact.fragment"
-2:I[47257,["/ludakzdd2.github.io/kartland-public/_next/static/chunks/ff1a16fafef87110.js","/ludakzdd2.github.io/kartland-public/_next/static/chunks/7340adf74ff47ec0.js"],"ClientPageRoot"]
-3:I[52683,["/ludakzdd2.github.io/kartland-public/_next/static/chunks/5e2b55944052221c.js","/ludakzdd2.github.io/kartland-public/_next/static/chunks/bad7e2f3eecd3e76.js","/ludakzdd2.github.io/kartland-public/_next/static/chunks/7bb60404b765aa78.js","/ludakzdd2.github.io/kartland-public/_next/static/chunks/31eab2739749e9c2.js"],"default"]
-6:I[97367,["/ludakzdd2.github.io/kartland-public/_next/static/chunks/ff1a16fafef87110.js","/ludakzdd2.github.io/kartland-public/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+2:I[47257,["/kartland-public/_next/static/chunks/ff1a16fafef87110.js","/kartland-public/_next/static/chunks/7340adf74ff47ec0.js"],"ClientPageRoot"]
+3:I[52683,["/kartland-public/_next/static/chunks/5e2b55944052221c.js","/kartland-public/_next/static/chunks/bad7e2f3eecd3e76.js","/kartland-public/_next/static/chunks/fa5af48c6a9da1b6.js","/kartland-public/_next/static/chunks/31eab2739749e9c2.js"],"default"]
+6:I[97367,["/kartland-public/_next/static/chunks/ff1a16fafef87110.js","/kartland-public/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-0:{"buildId":"4hBmnupTpynrtZWRCpeUm","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/ludakzdd2.github.io/kartland-public/_next/static/chunks/7bb60404b765aa78.js","async":true}],["$","script","script-1",{"src":"/ludakzdd2.github.io/kartland-public/_next/static/chunks/31eab2739749e9c2.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"xlR4nQqU2DRth4lCo5AHu","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/kartland-public/_next/static/chunks/fa5af48c6a9da1b6.js","async":true}],["$","script","script-1",{"src":"/kartland-public/_next/static/chunks/31eab2739749e9c2.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
 4:{}
 5:{}
 8:null
